@@ -16,6 +16,3 @@ LinkedIn: [linkedin.com/in/amanda-tran](https://www.linkedin.com/in/amanda-tran/
 ## Challenges 
 
 
-
-## Core Competencies 
-
