@@ -19,6 +19,9 @@ LinkedIn: [linkedin.com/in/amanda-tran](https://www.linkedin.com/in/amanda-tran/
 
 
 
-## Just For Fun (-: 
+## Hackathon Projects
+[Spectra 4.0 Hackathon: Financial Platform for Women](https://devpost.com/software/lift-off-wny2zc)
+
+[PennApps 2020 Hackathon: Zoom Recording to Detect Emotions](https://devpost.com/software/reellecture)
 
 
